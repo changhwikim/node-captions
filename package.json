@@ -11,7 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "iconv-lite": "^0.4.4",
-    "moment": "^2.6.0"
+    "moment": "^2.6.0",
+    "htmlparser2": "^3.5.0"
   },
   "devDependencies": {
     "time-grunt": "^0.3.1",
